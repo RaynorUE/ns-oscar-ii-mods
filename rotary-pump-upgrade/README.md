@@ -16,7 +16,7 @@ The hardwork of: [https://www.youtube.com/watch?v=3G0axqGLulk&t=1334s&pp=ygUYb3N
 | Capillary Tubes Laspeziale x2 | 22 | Clive Coffee |
 | Gauge Combo | 34 | Laspeziale - Espresso Parts |
 | Thermal switch 34200097 | 56 | Amazon Rancilio |
-| Solid State Relay 120V AC | 11 | Amazon |
+| Solid State Relay 120V AC | 11 | https://www.amazon.com/gp/aw/d/B0CX1Q4TG9 |
 | Pump - Short Flange Fluid O Tech | 145 | espressoparts |
 | Motor - LaSpeziale 110v 120W | 130 | Clive coffee |
 | Adapter 1 3/8 BSPP Male to 3/8 US compression | 16 | Espressoparts |
