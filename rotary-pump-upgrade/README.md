@@ -26,3 +26,8 @@ The hardwork of: [https://www.youtube.com/watch?v=3G0axqGLulk&t=1334s&pp=ygUYb3N
 | Copper washers | 10 | Amazon |
 | U.S. Solid Electric Solenoid Valve Semi-direct Lift VITON Seal Normally Closed AC 110V Stainless Steel 1/2 inch | 60 | https://www.walmart.com/ip/U-S-Solid-1-2in-NPT-Stainless-Steel-Electric-Solenoid-Valve-AC-110V-VITON-Normally-Closed/867846895
 | **Total** | **447.5** | |
+
+# Repair Parts List
+| Part Name | Location |
+|---|---|
+| Nuova Simonelli Neplax Expansion Valve - Complete | https://www.espressoparts.com/products/nuova-simonelli-neplax-expansion-valve-complete |
